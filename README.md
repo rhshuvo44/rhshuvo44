@@ -1,6 +1,7 @@
+![I am Front-End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHAUZFy_DzDJw/profile-displaybackgroundimage-shrink_200_800/0/1654666699398?e=1660780800&v=beta&t=85_xYD4Xeb9JSw3BdDY37ZKA5o4ym3Sk4qnXiiWRk80)
 ### Hi there 👋, I'm Ripon Hossain Shuvo
 #### I am Front-End Developer
-![I am Front-End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHAUZFy_DzDJw/profile-displaybackgroundimage-shrink_200_800/0/1654666699398?e=1660780800&v=beta&t=85_xYD4Xeb9JSw3BdDY37ZKA5o4ym3Sk4qnXiiWRk80)
+
 
 I'm a Front End Web Developer. I count myself as a hardworking person. Honesty, hard work,
 and passion will support me to grow myself & utilize my knowledge and expertise for
