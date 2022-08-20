@@ -1,4 +1,4 @@
-![I am Front-End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHAUZFy_DzDJw/profile-displaybackgroundimage-shrink_200_800/0/1654666699398?e=1660780800&v=beta&t=85_xYD4Xeb9JSw3BdDY37ZKA5o4ym3Sk4qnXiiWRk80)
+![I am Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHAUZFy_DzDJw/profile-displaybackgroundimage-shrink_350_1400/0/1654666699398?e=1666224000&v=beta&t=0wxINDPSJhtuMZUyiluXnAs73eCdQmt835zokLdq8mY)
 ### Hi there 👋, I'm Ripon Hossain Shuvo
 #### I am Front-End Developer
 
